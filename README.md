@@ -1,5 +1,2 @@
 # course
-int main()
-{
-  cout<<"hello"<<endl;
-}
+my name is youssef bahy youssef
